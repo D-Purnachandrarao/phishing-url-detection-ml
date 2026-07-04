@@ -351,3 +351,9 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 # 📄 License
 
 This project is developed for educational, learning, and portfolio purposes.
+
+---
+
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=D-Purnachandrarao)](https://github.com/ryo-ma/github-profile-trophy)
