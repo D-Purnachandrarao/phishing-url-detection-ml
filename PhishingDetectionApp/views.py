@@ -181,8 +181,7 @@ def PredictAction(request):
        
 
 def index(request):
-    if request.method == 'GET':
-       return render(request, 'index.html', {})
+    return render(request, 'index.html', {})
 
 def Predict(request):
     if request.method == 'GET':
